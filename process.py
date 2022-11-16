@@ -4,7 +4,7 @@ import argparse
 from tracker import *
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--input', default='simple pink dancing.mp4')
+parser.add_argument('--input', default='./videos/simple pink dancing.mp4')
 args = parser.parse_args()
 
 tracker = Tracker()
