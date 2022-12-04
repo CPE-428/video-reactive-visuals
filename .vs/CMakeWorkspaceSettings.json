@@ -1,0 +1,4 @@
+{
+  "enableCMake": true,
+  "sourceDirectory": "cmake-3.25.1\\cmake-3.25.1"
+}
